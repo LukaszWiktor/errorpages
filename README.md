@@ -8,6 +8,6 @@ Error pages spotted on various websites
 
 ## YouTube
 
-Higly trained monkeys...
+Highly trained monkeys...
 
 ![YouTube error 500](youtube-monkeys.jpg)
